@@ -1,0 +1,12 @@
+org\jpmorgan\stocks\StockCalculator.class
+org\jpmorgan\stocks\CommonStockCalculator.class
+org\jpmorgan\stocks\PreferredStockCalculator.class
+org\jpmorgan\stocks\TradesCalculator.class
+org\jpmorgan\stocks\test\StocksServiceTest.class
+org\jpmorgan\stocks\valueobject\Trade.class
+org\jpmorgan\stocks\valueobject\Stock.class
+org\jpmorgan\stocks\StocksCalculator.class
+org\jpmorgan\stocks\valueobject\Trade$Operation.class
+org\jpmorgan\stocks\service\StocksService.class
+org\jpmorgan\stocks\StockCalculatorFactory.class
+org\jpmorgan\stocks\valueobject\Stock$StockType.class
